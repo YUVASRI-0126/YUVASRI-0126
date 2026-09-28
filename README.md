@@ -30,3 +30,19 @@ I'm a **3rd-year AI & Data Science student** at K.S.R College of Arts and Scienc
   <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
 </p>
+
+
+## Featured Projects
+
+<a href="https://github.com/YUVASRI-0126/fitflex">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YUVASRI-0126&repo=fitflex&theme=github_dark" alt="fitflex" />
+</a>
+<a href="https://github.com/YUVASRI-0126/spend-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YUVASRI-0126&repo=spend-backend&theme=github_dark" alt="spend-backend" />
+</a>
+<a href="https://github.com/YUVASRI-0126/code-daily">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YUVASRI-0126&repo=code-daily&theme=github_dark" alt="code-daily" />
+</a>
+<a href="https://github.com/YUVASRI-0126/certificate-verification-frontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YUVASRI-0126&repo=certificate-verification-frontend&theme=github_dark" alt="certificate-verification-frontend" />
+</a>
