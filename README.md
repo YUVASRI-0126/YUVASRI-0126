@@ -46,3 +46,13 @@ I'm a **3rd-year AI & Data Science student** at K.S.R College of Arts and Scienc
 <a href="https://github.com/YUVASRI-0126/certificate-verification-frontend">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YUVASRI-0126&repo=certificate-verification-frontend&theme=github_dark" alt="certificate-verification-frontend" />
 </a>
+
+
+## My Down Time
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NETFLIX-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix" />
+  <img src="https://img.shields.io/badge/SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <img src="https://img.shields.io/badge/AMAZON%20PRIME-00A8E1?style=for-the-badge&logo=primevideo&logoColor=white" alt="Prime Video" />
+</p>
