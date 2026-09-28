@@ -10,8 +10,15 @@ I'm a **3rd-year AI & Data Science student** at K.S.R College of Arts and Scienc
 - LinkedIn: https://www.linkedin.com/in/yuvasri-boopathy-699474316
 - Learning in public with (https://your-linkhttps://www.hackerrank.com/profile/yuvasriyuvi744)
 
-![Yuvasri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YUVASRI-0126&show_icons=true&theme=github_dark&hide_border=false)
+## GitHub Stats 👩‍💻
 
+<table>
+  <tr>
+    <td width="33%"><img src="https://github-readme-stats.vercel.app/api?username=YUVASRI-0126&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="100%" /></td>
+    <td width="34%"><img src="https://streak-stats.demolab.com?user=YUVASRI-0126&theme=tokyonight&hide_border=true" alt="Contribution streak" width="100%" /></td>
+    <td width="33%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUVASRI-0126&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" width="100%" /></td>
+  </tr>
+</table>
 ## Skills
 
 |    I have    | I'm learning | In the memory banks |
