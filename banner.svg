@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+  <rect width="900" height="240" rx="12" fill="#fdeef6"/>
+  <circle cx="790" cy="120" r="80" fill="#f4b6cf"/>
+  <circle cx="740" cy="170" r="45" fill="#d96b8f"/>
+  <circle cx="830" cy="60" r="28" fill="#c2527a"/>
+  <text x="40" y="100" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="bold" fill="#2d2d2d">YUVASRI</text>
+  <text x="40" y="145" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#6b6b6b">AI &amp; Data Science student,</text>
+  <text x="40" y="177" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#6b6b6b">Python &amp; Java learner, aspiring data scientist</text>
+</svg>
