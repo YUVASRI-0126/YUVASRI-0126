@@ -27,11 +27,14 @@ I'm a **3rd-year AI & Data Science student** at K.S.R College of Arts and Scienc
     </td>
   </tr>
 </table>
-## Skills
+## Skills 🌱
 
-|    I have    | I'm learning | In the memory banks |
-| :----------: | :----------: | :-----------------: |
-| CORE OF JAVA |     JAVA     |                     |
+<details>
+<summary>Show Skills</summary>
+
+| I have | I'm learning | In the memory banks |
+| :---: | :---: | :---: |
+| Core Java | Java | |
 
 ### Currently Exploring
 
@@ -39,6 +42,8 @@ I'm a **3rd-year AI & Data Science student** at K.S.R College of Arts and Scienc
 * Machine Learning
 * AI & Data Science
 * Web Development
+
+</details>
 
 
 ## IDEs & Tools I Like
@@ -51,20 +56,17 @@ I'm a **3rd-year AI & Data Science student** at K.S.R College of Arts and Scienc
 </p>
 
 
-## Featured Projects
+## My Projects 🔥
 
-<a href="https://github.com/YUVASRI-0126/fitflex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YUVASRI-0126&repo=fitflex&theme=github_dark" alt="fitflex" />
-</a>
-<a href="https://github.com/YUVASRI-0126/spend-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YUVASRI-0126&repo=spend-backend&theme=github_dark" alt="spend-backend" />
-</a>
-<a href="https://github.com/YUVASRI-0126/code-daily">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YUVASRI-0126&repo=code-daily&theme=github_dark" alt="code-daily" />
-</a>
-<a href="https://github.com/YUVASRI-0126/certificate-verification-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YUVASRI-0126&repo=certificate-verification-frontend&theme=github_dark" alt="certificate-verification-frontend" />
-</a>
+<details>
+<summary>Show Projects</summary>
+
+* [fitflex](https://github.com/YUVASRI-0126/fitflex)
+* [spend-backend](https://github.com/YUVASRI-0126/spend-backend)
+* [code-daily](https://github.com/YUVASRI-0126/code-daily)
+* [certificate-verification-frontend](https://github.com/YUVASRI-0126/certificate-verification-frontend)
+
+</details>
 
 
 ## My Down Time
