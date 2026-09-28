@@ -8,15 +8,23 @@ I'm a **3rd-year AI & Data Science student** at K.S.R College of Arts and Scienc
 - Email: yuvasriyuvi722@gmail.com
 - GitHub: [YUVASRI-0126](https://github.com/YUVASRI-0126)
 - LinkedIn: https://www.linkedin.com/in/yuvasri-boopathy-699474316
-- Learning in public with (https://your-linkhttps://www.hackerrank.com/profile/yuvasriyuvi744)
+- Learning in public with [HackerRank](https://www.hackerrank.com/profile/yuvasriyuvi744)
 
 ## GitHub Stats 👩‍💻
 
 <table>
   <tr>
-    <td width="33%"><img src="https://github-readme-stats.vercel.app/api?username=YUVASRI-0126&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="100%" /></td>
-    <td width="34%"><img src="https://streak-stats.demolab.com?user=YUVASRI-0126&theme=tokyonight&hide_border=true" alt="Contribution streak" width="100%" /></td>
-    <td width="33%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUVASRI-0126&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" width="100%" /></td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/github/followers/YUVASRI-0126?label=Followers&style=for-the-badge&logo=github" alt="Followers" /><br/><br/>
+      <img src="https://img.shields.io/badge/PUBLIC%20REPOS-5-2ea44f?style=for-the-badge&logo=github" alt="Public repos" />
+    </td>
+    <td align="center" width="34%">
+      <img src="https://streak-stats.demolab.com?user=YUVASRI-0126&theme=tokyonight&hide_border=true" alt="Contribution streak" width="100%" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br/><br/>
+      <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    </td>
   </tr>
 </table>
 ## Skills
