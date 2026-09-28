@@ -1,11 +1,14 @@
-* **Pronouns:** She/Her
-* **How to reach me:**
 
-  * Email: [yuvasriyuvi722@gmail.com-](mailto:your-email@example.com)
-  * GitHub: [YUVASRI-0126](https://github.com/YUVASRI-0126)
+# Hi, I'm Yuvasri 👋
 
+![Yuvasri banner](banner.svg)
 I'm a **3rd-year AI & Data Science student** at K.S.R College of Arts and Science for Women. I enjoy working with Python, Java, and AI technologies. I'm currently learning Data Science, Machine Learning, and Web Development.
+## Find me around the web 🌏
 
+- Email: yuvasriyuvi722@gmail.com
+- GitHub: [YUVASRI-0126](https://github.com/YUVASRI-0126)
+- LinkedIn: https://www.linkedin.com/in/yuvasri-boopathy-699474316
+- Learning in public with (https://your-linkhttps://www.hackerrank.com/profile/yuvasriyuvi744)
 
 ![Yuvasri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YUVASRI-0126&show_icons=true&theme=github_dark&hide_border=false)
 
